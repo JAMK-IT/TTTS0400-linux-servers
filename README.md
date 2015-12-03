@@ -1,6 +1,7 @@
 # TTTS0400-linux-servers
 
 **Teacher:** Paavo Nelimarkka [firstname.lastname@jamk.fi]
+![](http://mdcc.cx/~joostvb/plaatjes/stuff/debian/debian-logo-horizontal.gif)
 
 ## Timetable
 | Day | Subject | Exercises |
