@@ -12,12 +12,12 @@
 | 11.2. | etc | etc | 
 | 18.2. | etc | etc | 
 | 25.2. | etc intermediate feedback | etc | 
-| 3.3. | Winter holidays | Nope. | 
+| 3.3. | Winter holidays | - | 
 | 10.3. | etc | etc | 
 | 17.3. | etc | etc | 
 | 24.3. | etc | etc | 
-| 31.3. | Assignment #1 | etc | 
-| 7.4. | Assignment #2 | etc | 
+| 31.3. | Assignment #1 | - | 
+| 7.4. | Assignment #2 | - | 
 | 14.4. | Exam | etc | 
 | 21.4. | Exam return  & course feedback  |  | 
 
