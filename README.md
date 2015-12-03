@@ -10,3 +10,5 @@
 | etc | etc | etc |  
 
 ## Resources
+
+- [Github Student Pack](https://education.github.com/pack) _you want this_
