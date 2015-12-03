@@ -1,13 +1,12 @@
 # TTTS0400-linux-servers
 
-**Teacher:** Paavo Nelimarkka [firstname.lastname@jamk.fi]  
-![](https://www.debian.org/logos/openlogo-nd-100.png)
+**Teacher:** Paavo Nelimarkka [firstname.lastname@jamk.fi]
 
 ## Timetable
 | Day | Subject | Exercises |
 |:--------|:----------:|-----:|
 | 14.1. | Course introduction | Exercises 1-5 |  
-| 21.1. | Virtualization | Exercises 1-3 |  
+| 21.1. | Virtualization & Debian | Exercises 1-3 |  
 | 28.1. | etc | etc | 
 | 4.2. | etc | etc | 
 | 11.2. | etc | etc | 
