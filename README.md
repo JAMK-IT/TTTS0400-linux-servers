@@ -1,6 +1,6 @@
 # TTTS0400-linux-servers
 
-**Teacher:** Paavo Nelimarkka [firstname.lastname@jamk.fi]
+**Teacher:** Paavo Nelimarkka [firstname.lastname@jamk.fi]  
 ![](https://www.debian.org/logos/openlogo-nd-100.png)
 
 ## Timetable
