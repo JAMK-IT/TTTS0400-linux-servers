@@ -14,7 +14,7 @@
 | 25.2. | etc intermediate feedback | etc | 
 | 3.3. | Winter holidays | - | 
 | 10.3. | NFS, Samba | etc | 
-| 17.3. | Preformance??? | etc | 
+| 17.3. | Performance??? | etc | 
 | 24.3. | Docker??? | etc | 
 | 31.3. | Assignment #1 | - | 
 | 7.4. | Assignment #2 | - | 
