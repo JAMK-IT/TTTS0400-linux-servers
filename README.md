@@ -1,4 +1,4 @@
-# TTTS0400-linux-servers
+# TTTS0400 - Linux Servers
 
 **Teacher:** Paavo Nelimarkka [firstname.lastname@jamk.fi]
 
