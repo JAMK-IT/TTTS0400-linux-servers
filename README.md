@@ -5,8 +5,8 @@
 ## Timetable
 | Day | Subject | Exercises |
 |:--------|:----------:|-----:|
-| 14.1. | Course introduction | Exercises 1-5 |  
-| 21.1. | Virtualization & Debian | Exercises 1-3 |  
+| 14.1. | Course introduction, Virtualization, Debian | Exercises 1-5 |  
+| 21.1. | Linux servers, User groups, Packet Management  | Exercises 1-3 |  
 | 28.1. | etc | etc | 
 | 4.2. | etc | etc | 
 | 11.2. | etc | etc | 
