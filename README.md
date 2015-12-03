@@ -19,7 +19,7 @@
 | 31.3. | Assignment #1 | etc | 
 | 7.4. | Assignment #2 | etc | 
 | 14.4. | Exam | etc | 
-| 21.4. |  & course feedback  |  | 
+| 21.4. | Exam return  & course feedback  |  | 
 
 ## Resources
 
