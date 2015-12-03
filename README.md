@@ -1,5 +1,7 @@
 # TTTS0400-linux-servers
 
+Teacher: Paavo Nelimarkka [firstname.lastname@jamk.fi]
+
 ## Timetable
 | Day | Subject | Exercises |
 |:--------|:----------:|-----:|
