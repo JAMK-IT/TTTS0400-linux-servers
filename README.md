@@ -7,7 +7,7 @@
 |:--------|:----------:|-----:|
 | 14.1. | Course introduction, Virtualization, Debian | Exercises 1-5 |  
 | 21.1. | Linux servers, User groups, Packet Management  | Exercises 1-3 |  
-| 28.1. | etc | etc | 
+| 28.1. | Network interfaces, Routing, IPv6 | etc | 
 | 4.2. | etc | etc | 
 | 11.2. | etc | etc | 
 | 18.2. | etc | etc | 
