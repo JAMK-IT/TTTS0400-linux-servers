@@ -10,7 +10,7 @@
 | 28.1. | Network interfaces, Routing, IPv6 | etc | 
 | 4.2. | Network interfaces 2, NAT | etc | 
 | 11.2. | NTP, ARP | etc | 
-| 18.2. | etc | etc | 
+| 18.2. | Log files | etc | 
 | 25.2. | etc intermediate feedback | etc | 
 | 3.3. | Winter holidays | - | 
 | 10.3. | etc | etc | 
