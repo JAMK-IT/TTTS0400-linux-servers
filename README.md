@@ -12,7 +12,7 @@
 | 11.2. | NTP, ARP, Bootp, DHCP | etc | 
 | 18.2. | Apache (LAMP) & SFTP | etc | 
 | 25.2. | etc intermediate feedback | etc | 
-| 3.3. | ***Winter holidays <:3  )~~~~*** | - | 
+| 3.3. | **Winter holidays <:3  )~~~~** | - | 
 | 10.3. | NFS, Samba | etc | 
 | 17.3. | Performance??? | etc | 
 | 24.3. | keksiasiaa, Docker | etc | 
