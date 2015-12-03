@@ -1,6 +1,6 @@
 # Linux Servers - TTTS0400
 
-**Teacher:** Paavo Nelimarkka [firstname.lastname@jamk.fi]  
+**Teacher:** Paavo Nelimarkka (firstname.lastname@jamk.fi)  
 **Classroom:** ???  
 
 Return your exercises and assignments in [Optima](https://optima.jamk.fi/) before given deadline.  
