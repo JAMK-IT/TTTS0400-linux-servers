@@ -11,7 +11,7 @@
 | 4.2. | etc | etc | 
 | 11.2. | etc | etc | 
 | 18.2. | etc | etc | 
-| 25.2. | etc | etc | 
+| 25.2. | etc | etc + feedback | 
 | 3.3. | Winter holidays | Nope. | 
 | 10.3. | etc | etc | 
 | 17.3. | etc | etc | 
@@ -19,7 +19,7 @@
 | 31.3. | etc | etc | 
 | 7.4. | etc | etc | 
 | 14.4. | etc | etc | 
-| 21.4. | etc | etc | 
+| 21.4. | etc | etc + feedback| 
 
 ## Resources
 
