@@ -12,7 +12,7 @@
 | 11.2. | etc | etc | 
 | 18.2. | etc | etc | 
 | 25.2. | etc | etc | 
-| 3.3. | etc | etc | 
+| 3.3. | Winter holidays | Nope. | 
 | 10.3. | etc | etc | 
 | 17.3. | etc | etc | 
 | 24.3. | etc | etc | 
