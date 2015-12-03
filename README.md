@@ -16,10 +16,10 @@
 | 10.3. | etc | etc | 
 | 17.3. | etc | etc | 
 | 24.3. | etc | etc | 
-| 31.3. | etc | etc | 
-| 7.4. | etc | etc | 
-| 14.4. | etc | etc | 
-| 21.4. | etc | etc + feedback| 
+| 31.3. | DOCKER | etc | 
+| 7.4. |  | etc | 
+| 14.4. |  | etc | 
+| 21.4. |  | etc + feedback| 
 
 ## Resources
 
