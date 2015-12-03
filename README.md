@@ -1,7 +1,8 @@
 # Linux Servers - TTTS0400
 
-**Teacher:** Paavo Nelimarkka [firstname.lastname@jamk.fi]
-**Classroom:** ???
+**Teacher:** Paavo Nelimarkka [firstname.lastname@jamk.fi]  
+**Classroom:** ???  
+Return folders are in Optima.  
 
 ## Timetable
 | Day | Subject | Exercises |
