@@ -10,8 +10,8 @@
 | 28.1. | etc | etc | 
 | 4.2. | etc | etc | 
 | 11.2. | etc | etc | 
-| 18.1. | etc | etc | 
-| 25.1. | etc | etc | 
+| 18.2. | etc | etc | 
+| 25.2. | etc | etc | 
 | 3.3. | etc | etc | 
 | 10.3. | etc | etc | 
 | 17.3. | etc | etc | 
