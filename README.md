@@ -16,10 +16,10 @@
 | 10.3. | etc | etc | 
 | 17.3. | etc | etc | 
 | 24.3. | etc | etc | 
-| 31.3. | DOCKER | etc | 
-| 7.4. |  | etc | 
-| 14.4. |  | etc | 
-| 21.4. |  | etc + feedback| 
+| 31.3. | Assignment #1 | etc | 
+| 7.4. | Assignment #2 | etc | 
+| 14.4. | Test | etc | 
+| 21.4. | Test returns & feedback  | feedback | 
 
 ## Resources
 
