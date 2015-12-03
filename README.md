@@ -9,13 +9,13 @@
 | 21.1. | Linux servers, User groups, Packet Management  | Exercises 1-3 |  
 | 28.1. | Network interfaces, Routing, IPv6 | etc | 
 | 4.2. | Network interfaces 2, NAT | etc | 
-| 11.2. | NTP, ARP | etc | 
+| 11.2. | NTP, ARP, DHCP | etc | 
 | 18.2. | Log files | etc | 
 | 25.2. | etc intermediate feedback | etc | 
 | 3.3. | Winter holidays | - | 
-| 10.3. | etc | etc | 
-| 17.3. | etc | etc | 
-| 24.3. | etc | etc | 
+| 10.3. | NFS, Samba | etc | 
+| 17.3. | Preformance??? | etc | 
+| 24.3. | Docker??? | etc | 
 | 31.3. | Assignment #1 | - | 
 | 7.4. | Assignment #2 | - | 
 | 14.4. | Exam | - | 
