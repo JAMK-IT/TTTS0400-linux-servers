@@ -2,7 +2,8 @@
 
 **Teacher:** Paavo Nelimarkka [firstname.lastname@jamk.fi]  
 **Classroom:** ???  
-Return folders are in Optima.  
+
+Return your exercises and assignments in Optima before given deadline.  
 
 ## Timetable
 | Day | Subject | Exercises |
