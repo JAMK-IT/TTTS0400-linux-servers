@@ -18,7 +18,7 @@ Return your exercises and assignments in [Optima](https://optima.jamk.fi/) befor
 | 3.3. | ༼∩ຈل͜ຈ༽⊃━☆ﾟ. * ･ ｡ﾟ **Winter Holiday** | - | 
 | 10.3. | NFS, Samba | etc | 
 | 17.3. | Performance & Stability | etc | 
-| 24.3. | Keksi asiaa + Docker | etc | 
+| 24.3. | Docker | etc | 
 | 31.3. | Assignment #1 | - | 
 | 7.4. | Assignment #2 | - | 
 | 14.4. | Exam | - | 
