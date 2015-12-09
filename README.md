@@ -3,7 +3,7 @@
 **Teacher:** Paavo Nelimarkka (firstname.lastname@jamk.fi)  
 **Classroom:** ???  
 
-Return your exercises and assignments in [Optima](https://optima.jamk.fi/) before given deadline.  
+Exercises will be mostly done in classrooms and reviewed together. The two assignments are mandatory and must be returnet in [Optima](https://optima.jamk.fi/) before given deadline.  
 
 ## Timetable
 | Day | Subject | Exercises |
