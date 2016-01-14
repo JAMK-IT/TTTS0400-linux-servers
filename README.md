@@ -8,7 +8,7 @@ Exercises will be mostly done in classrooms and reviewed together. The two assig
 ## Timetable
 | Day | Subject | Exercises |
 |:--------|:----------:|-----:|
-| 14.1. | [Course introduction](https://docs.google.com/presentation/d/1dyJju97IrH9Hi0RK5pFKysfahFsmkasNCl4Besg7yEE/edit?usp=sharing), [Virtualization](), [Debian](https://docs.google.com/presentation/d/1WaOiXPbdjOi__6paABBbmKaf3EchhHpkkPTdGp_bTrc/edit?usp=sharing), [User Groups](https://docs.google.com/presentation/d/1_Wqjat3eydFAVah7bxglho6Ev6yxoSd_8vMGu4lWs0Y/edit?usp=sharing) | [Exercises](https://docs.google.com/presentation/d/133cnZggnPU-vXdqfL3B86xzmS9T_DkYYDdNp5V888pI/edit?usp=sharing) |  
+| 14.1. | [Course introduction](https://docs.google.com/presentation/d/1dyJju97IrH9Hi0RK5pFKysfahFsmkasNCl4Besg7yEE/edit?usp=sharing), [Virtualization](https://docs.google.com/presentation/d/1GMEvxJG4jjQcQ1-bolNhreHo0g1Dd5eG__T2KqyfQjY/edit?usp=sharing), [Debian](https://docs.google.com/presentation/d/1WaOiXPbdjOi__6paABBbmKaf3EchhHpkkPTdGp_bTrc/edit?usp=sharing), [User Groups](https://docs.google.com/presentation/d/1_Wqjat3eydFAVah7bxglho6Ev6yxoSd_8vMGu4lWs0Y/edit?usp=sharing) | [Exercises](https://docs.google.com/presentation/d/133cnZggnPU-vXdqfL3B86xzmS9T_DkYYDdNp5V888pI/edit?usp=sharing) |  
 | 21.1. | Linux servers, Packet Management  | etc |  
 | 28.1. | Network interfaces, Routing, IPv6 | etc | 
 | 4.2. | Network interfaces 2, NAT | etc | 
