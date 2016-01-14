@@ -8,8 +8,8 @@ Exercises will be mostly done in classrooms and reviewed together. The two assig
 ## Timetable
 | Day | Subject | Exercises |
 |:--------|:----------:|-----:|
-| 14.1. | Course introduction, Virtualization, Debian | Exercises 1-5 |  
-| 21.1. | Linux servers, User groups, Packet Management  | Exercises 1-3 |  
+| 14.1. | Course introduction, Virtualization, Debian | [Exercises]() |  
+| 21.1. | Linux servers, User groups, Packet Management  | etc |  
 | 28.1. | Network interfaces, Routing, IPv6 | etc | 
 | 4.2. | Network interfaces 2, NAT | etc | 
 | 11.2. | NTP, ARP, Bootp, DHCP | etc | 
