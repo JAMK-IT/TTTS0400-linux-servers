@@ -1,7 +1,9 @@
 # Linux Servers - TTTS0400
 
-**Teacher:** Paavo Nelimarkka (firstname.lastname@jamk.fi)  
-**Classroom:** ???  
+**Teacher:** Paavo Nelimarkka  
+**Contact:** D555, firstname.lastname@jamk.fi, 040 anti-spam 642 7770  
+
+**Classroom:** 327
 
 Exercises will be mostly done in classrooms and reviewed together. The two assignments are mandatory and must be returnet in [Optima](https://optima.jamk.fi/) before given deadline. There will also be an exam.
 
