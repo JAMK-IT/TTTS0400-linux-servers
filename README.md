@@ -5,7 +5,7 @@
 
 **Classroom:** 327
 
-Exercises will be mostly done in classrooms and reviewed together. The two assignments are mandatory and must be returnet in [Optima](https://optima.jamk.fi/) before given deadline. There will also be an exam.
+Exercises will be mostly done in classrooms and reviewed together. The two assignments are mandatory and must be returned in [Optima](https://optima.jamk.fi/) before given deadline. There will also be an exam.
 
 ## Timetable
 | Day | Subject | Exercises |
