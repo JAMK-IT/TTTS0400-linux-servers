@@ -15,8 +15,8 @@ Exercises will be mostly done in classrooms and reviewed together. The two assig
 | 28.1. | [Network interfaces](https://www.dropbox.com/s/jlq9f9hgufp6r5m/Verkkorajapinnat1.pdf?dl=0), [IPv6](https://www.dropbox.com/s/4jfbrjs56pi8ntz/IPv6.pdf?dl=0) | [Exercises](https://github.com/JAMK-IT/TTTS0400-linux-servers/wiki/tehtavat-3) | 
 | 4.2. | [Network interfaces 2](https://www.dropbox.com/s/rj0xbul9gysiyyj/Verkkorajapinnat2.pdf?dl=0) | [Exercises](https://github.com/JAMK-IT/TTTS0400-linux-servers/wiki/tehtavat-4) | 
 | 11.2. | NAT, DNS | - | 
-| 18.2. | Log files | - | 
-| 25.2. | Intermediate feedback, **Assignment #1** | - | 
+| 18.2. | **Assignment #1** | - | 
+| 25.2. | Intermediate feedback, Log files  | - | 
 | 3.3. | ༼∩ຈل͜ຈ༽⊃━☆ﾟ. * ･ ｡ﾟ **Winter Holiday** | - | 
 | 10.3. | Apache (LAMP) & SFTP | - | 
 | 17.3. | NFS, Samba | - | 
