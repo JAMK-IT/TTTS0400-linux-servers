@@ -16,7 +16,7 @@ Exercises will be mostly done in classrooms and reviewed together. The two assig
 | 4.2. | [Network interfaces 2](https://www.dropbox.com/s/rj0xbul9gysiyyj/Verkkorajapinnat2.pdf?dl=0) | [Exercises](https://github.com/JAMK-IT/TTTS0400-linux-servers/wiki/tehtavat-4) | 
 | 11.2. | [Network exercise](https://github.com/JAMK-IT/TTTS0400-linux-servers/wiki/network-exercise), [NAT](https://www.dropbox.com/s/uy7x22k74tydxhw/NAT.pdf?dl=0) | - | 
 | 18.2. | [**Assignment #1**](https://github.com/JAMK-IT/TTTS0400-linux-servers/wiki/Labra1) | - | 
-| 25.2. | ARP, DHCP, Log files, Intermediate feedback  | - | 
+| 25.2. | ARP, DHCP, Log files, Intermediate feedback  | [Exercises](https://github.com/JAMK-IT/TTTS0400-linux-servers/wiki/Exercises25_2) | 
 | 3.3. | ༼∩ຈل͜ຈ༽⊃━☆ﾟ. * ･ ｡ﾟ **Winter Holiday** | - | 
 | 10.3. | Apache (LAMP) & SFTP | - | 
 | 17.3. | NFS, Samba | - | 
