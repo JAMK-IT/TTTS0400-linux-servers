@@ -18,7 +18,7 @@ Exercises will be mostly done in classrooms and reviewed together. The two assig
 | 18.2. | [**Assignment #1**](https://github.com/JAMK-IT/TTTS0400-linux-servers/wiki/Labra1) | - | 
 | 25.2. | Intermediate feedback, ARP, DHCP, Log files | [Exercises](https://github.com/JAMK-IT/TTTS0400-linux-servers/wiki/Exercises25_2) | 
 | 3.3. | ༼∩ຈل͜ຈ༽⊃━☆ﾟ. * ･ ｡ﾟ **Winter Holiday** | - | 
-| 10.3. | Apache (LAMP) & SFTP | - | 
+| 10.3. | LAMP-stack & SFTP | - | 
 | 17.3. | NFS, Samba | - | 
 | 24.3. | Performance & Stability | - | 
 | 31.3. | Docker | - | 
