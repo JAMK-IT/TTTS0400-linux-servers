@@ -28,4 +28,5 @@ Exercises will be mostly done in classrooms and reviewed together. The two assig
 
 ## Resources
 
+- [Mid-course Feedback]()
 - [Github Student Pack](https://education.github.com/pack) _you want this_
