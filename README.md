@@ -7,7 +7,7 @@
 
 Exercises will be mostly done in classrooms and reviewed together. The two assignments are mandatory and must be returned in [Optima](https://optima.jamk.fi/) before given deadline. There will also be an exam.
 
-[Mid-course Feedback]()
+[Mid-course Feedback](https://github.com/JAMK-IT/TTTS0400-linux-servers/wiki/Mid-course-Feedback)
 
 ## Grading
 
