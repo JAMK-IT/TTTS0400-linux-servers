@@ -11,7 +11,7 @@ Exercises will be mostly done in classrooms and reviewed together. The two assig
 
 ## Course objectives & Grading
 
-In this course students should learn the basics of linux distributions as a server: How to make a simple network, how to install, configure and handle various services on the server.
+In this course students will learn the basics of linux distributions in server use; how to make a simple network and how to install, configure and handle various services on the server.
 
 Grading will mostly be based on the exam. Assignments 1 & 2 can also be checked for the grade.
 
