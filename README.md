@@ -7,6 +7,12 @@
 
 Exercises will be mostly done in classrooms and reviewed together. The two assignments are mandatory and must be returned in [Optima](https://optima.jamk.fi/) before given deadline. There will also be an exam.
 
+[Mid-course Feedback]()
+
+## Grading
+
+Grading will mostly be based on the exam. Assignments 1 & 2 can also be checked for the grade.
+
 ## Timetable
 | Day | Subject | Exercises |
 |:--------|:----------:|-----:|
@@ -28,5 +34,4 @@ Exercises will be mostly done in classrooms and reviewed together. The two assig
 
 ## Resources
 
-- [Mid-course Feedback]()
 - [Github Student Pack](https://education.github.com/pack) _you want this_
