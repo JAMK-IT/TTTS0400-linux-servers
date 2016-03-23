@@ -28,7 +28,7 @@ Grading will mostly be based on the exam. Assignments 1 & 2 can also be checked 
 | 3.3. | ༼∩ຈل͜ຈ༽⊃━☆ﾟ. * ･ ｡ﾟ **Winter Holiday** | - | 
 | 10.3. | **CANCELLED** | - | 
 | 17.3. | [LAMP-stack, SSH & SFTP](https://github.com/JAMK-IT/TTTS0400-linux-servers/wiki/lamp-sftp) | [Exercises](https://github.com/JAMK-IT/TTTS0400-linux-servers/wiki/lamp-sftp-exercises) | 
-| 24.3. | Performance & Stability | - | 
+| 24.3. | PhpMyAdmin, Wordpress | - | 
 | 31.3. | Docker | - | 
 | 7.4. | **Assignment #2** | - | 
 | 14.4. | **Exam** | - | 
