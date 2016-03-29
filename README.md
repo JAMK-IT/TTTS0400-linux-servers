@@ -1,7 +1,7 @@
 # Linux Servers - TTTS0400
 
 **Teacher:** Paavo Nelimarkka  
-**Contact:** D555, firstname.lastname@jamk.fi, 040 anti-spam 642 7770  
+**Contact:** D555, firstname.lastname@jamk.fi
 
 **Classroom:** 327
 
