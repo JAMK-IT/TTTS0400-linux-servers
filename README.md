@@ -29,7 +29,7 @@ Grading will mostly be based on the exam. Assignments 1 & 2 can also be checked 
 | 10.3. | **CANCELLED** | - | 
 | 17.3. | [LAMP-stack, SSH & SFTP](https://github.com/JAMK-IT/TTTS0400-linux-servers/wiki/lamp-sftp) | [Exercises](https://github.com/JAMK-IT/TTTS0400-linux-servers/wiki/lamp-sftp-exercises) | 
 | 24.3. | [PhpMyAdmin, Wordpress](https://github.com/JAMK-IT/TTTS0400-linux-servers/wiki/phpmyadmin-wordpress) | [Exercises](https://github.com/JAMK-IT/TTTS0400-linux-servers/wiki/phpmyadmin-wp-exercises) | 
-| 31.3. | [Docker](https://docs.google.com/presentation/d/1AR_tJiptawemlMNRrhkdFFGDjsdgLXiGArz4Yump-jA/edit#slide=id.p), [Installation & Exercise]() | - | 
+| 31.3. | [Docker](https://docs.google.com/presentation/d/1AR_tJiptawemlMNRrhkdFFGDjsdgLXiGArz4Yump-jA/edit#slide=id.p), [Installation & Exercise](https://github.com/JAMK-IT/TTTS0400-linux-servers/wiki/docker-installation-exercises) | - | 
 | 7.4. | **Assignment #2** | - | 
 | 14.4. | **Exam** | - | 
 | 21.4. | Exam return  & course feedback  | - | 
