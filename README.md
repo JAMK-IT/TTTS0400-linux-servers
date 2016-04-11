@@ -31,7 +31,7 @@ Grading will mostly be based on the exam. Assignments 1 & 2 can also be checked 
 | 24.3. | [PhpMyAdmin, Wordpress](https://github.com/JAMK-IT/TTTS0400-linux-servers/wiki/phpmyadmin-wordpress) | [Exercises](https://github.com/JAMK-IT/TTTS0400-linux-servers/wiki/phpmyadmin-wp-exercises) | 
 | 31.3. | [Docker](https://docs.google.com/presentation/d/1AR_tJiptawemlMNRrhkdFFGDjsdgLXiGArz4Yump-jA/edit#slide=id.p), [Installation & Exercise](https://github.com/JAMK-IT/TTTS0400-linux-servers/wiki/docker-installation-exercises) | - | 
 | 7.4. | **[Assignment #2](https://github.com/JAMK-IT/TTTS0400-linux-servers/wiki/Labra2)** | - | 
-| 14.4. | **Exam** | - | 
+| 14.4. | **[Exam](https://github.com/JAMK-IT/TTTS0400-linux-servers/wiki/koe-tarpit)** | - | 
 | 21.4. | Exam return  & course feedback  | - | 
 
 ## Resources
